@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>TCG Deck Builder - Phaser</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.2/papaparse.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/phaser@3.60.0/dist/phaser.min.js"></script>
+    <link rel="stylesheet" href="css/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Alegreya:wght@700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div id="game-container"></div>
+
+    <template id="card-template">
+        <div class="card">
+            <div class="card-inner">
+                <div class="card-art"></div>
+                <div class="bg-personaje"></div>
+                <div class="personaje-text"></div>
+                <div class="bg-nombre">
+                    <div class="card-name"></div>
+                    <div class="card-symbols"></div>
+                </div>
+                <div class="description-row">
+                    <div class="box-style arq-box"><div class="arq-text arq-1"></div></div>
+                    <div class="box-style desc-box">
+                        <div class="desc-main"></div>
+                        <div class="desc-extra"></div>
+                    </div>
+                    <div class="box-style arq-box"><div class="arq-text arq-2"></div></div>
+                    <div class="box-style stats-box">
+                        <div class="stat-atk"></div>
+                        <div class="stat-def"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </template>
+    <script src="js/script.js"></script>
+</body>
+</html>

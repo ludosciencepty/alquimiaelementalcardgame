@@ -1,0 +1,50 @@
+Nombre,Tipo,Efecto,Descripción,Atk,Def,Arq1,Arq2,Símbolos,,Link_Imagen,Link_Icono_Coste,Coste,,Tipo
+Combustión Espontánea,Acción,Sacrifica 1 elemento gaseoso de tu campo para dañar dos cartas enemigas (elementos o compuestos).,Hechizo de sacrificio que causa ignición mágica instantánea,,,,,,,image-qdQlYhjJ3djeIzPlPBTWy.webp,,0,,Accion
+Reacción en Cadena,Acción,"Si destruyes una carta este turno, puedes atacar otra carta inmediatamente",Hechizo que enlaza múltiples explosiones en secuencia,,,,,,,image-vr0nJRkGvRp2KWSndhESN.webp,,1,,Accion
+Inhibición Química,Acción,Niega la activación de una habilidad de carta este turno,Hechizo de barrera que detiene procesos químicos,,,,,,,image-OSCA0pDlS4bOQnn8hfINs.webp,,1,,Accion
+Oxidación,Acción,Reduce la DEF de 2 cartas enemigas en 1 permanentemente.,Hechizo que acelera procesos de oxidación y descomposición,,,,,,,image-eepdd5W0mQfR4WpWLOcN2.webp,,1,,Accion
+Destilación Básica,Acción,"Elige un compuesto en tu campo, descártalo y coloca dos de sus elementos base en campo.",Hechizo de separación que divide compuestos en componentes,,,,,,,image-CZIFrnTmoSzvWs_2-2Ykm.webp,,1,,Accion
+Lluvia Ácida,Acción,Todos los enemigos pierden 1 DEF este turno.,Hechizo ambiental que crea precipitación corrosiva,,,,,,,image-stHXU-BmLS7zFACARfuT3.webp,,2,,Accion
+Fortalecimiento Estructural,Acción,Dobla la DEF de 1 de un sólido este turno,Hechizo de refuerzo que fortalece enlaces moleculares,,,,,,,image-wc7KfvbxHqgEhd_w-iX87.webp,,2,,Accion
+Síntesis Perfecta,Acción,Busca 1 compuesto en tu mazo y añádelo a tu mano.,Hechizo de creación que forma compuestos perfectos,,,,,,,image-wGtHaYUuFawME-WVBLGz_.webp,,2,,Accion
+Cristalización Rápida,Acción,"Si el oponente tiene 4 o más cartas en mano, descarta 2 al azar.",Hechizo de aceleración que causa cristalización instantánea,,,,,,,image-K5gnx9-hjRa492vt5smxJ.webp,,2,,Accion
+Reducción Forzada,Acción,Aumenta el coste de las cartas del enemigo durante el siguiente turno.,Hechizo de reversión que devuelve elementos a estado puro,,,,,,,image-VzzIVOeWQPoZhJwxuaaat.webp,,2,,Accion
+Polimerización Avanzada,Acción,Sacrifica 2 elementos cualquiera de tu campo para invocar 1 compuesto de tu mazo ignorando su coste.,Hechizo complejo que enlaza moléculas en cadenas masivas,,,,,,,image-I-w9_p24-W9FdPF3Efvlq.webp,,3,,Accion
+Hipnosis Avanzada,Acción,Toma control de 1 compuesto enemigo hasta el final de su próximo turno.,Hechizo de control mental para dominación temporal,,,,,,,image-czKkkDiY6QrY-nqe_aqg9.webp,,3,,Accion
+Electrólisis Forzada,Acción,Divide 1 compuesto enemigo en sus elementos base (van al cementerio del oponente),Hechizo de separación violenta que divide compuestos,,,,,,,image-cZaDcGZKTNB-NGXxL6oSw.webp,,3,,Accion
+Neutralización Masiva,Acción,Destruye todos los compuestos Ácidos y Básicos en el campo.,Hechizo de balance que cancela ácidos y bases,,,,,,,image-sqp6xyJV0n-1h4QsFwjqA.webp,,3,,Accion
+Fusión Nuclear,Acción,Destruye todas las cartas en el campo. Cada jugador pierde 2 cartas de su mano. No se cuentan como puntos para ningún jugador.,Hechizo definitivo que crea fusión estelar en miniatura,,,,,,,image-TWQSk5buTv0xWqP6IUAbV.webp,,4,,Accion
+Mechero Bunsen,Herramienta,"Efecto Continuo: 
+Tus elementos Gaseoso ganan +2 ATK.",Quemador de latón ornamentado con llamas mágicas ajustables,,,,,,,image-PxBfIvQkJQk9vK9j7McGh.webp,,1,,Herramienta
+Estructura Cristalina,Herramienta,"Efecto Continuo:
+Todas tus cartas Sólido ganan +1 DEF permanentemente.",Dispositivo que proyecta redes moleculares de refuerzo,,,,,,,image-QXVGI2WfA5xQcFyZB5R3Y.web,,1,,Herramienta
+Corrosión Acelerada,Herramienta,"Efecto Activado: 
+Una vez por turno, cuando un Ácido tuyo destruye una carta, el oponente descarta 1 carta adicional.",Dispositivo que rocía niebla corrosiva que acelera el tiempo,,,,,,,image-KXX-swINQhMxVj0eCL_Yu.webp,,1,,Herramienta
+Tanque Presurizado,Herramienta,"Efecto Continuo: 
+Tus elementos Gaseoso ganan +1 DEF.",Tanque reforzado que contiene gases mágicos comprimidos,,,,,,,image-UivxkEBgjQ3ZS4SRxnqoh.webp,,1,,Herramienta
+Catalizador Básico,Herramienta,"Efecto Activado:
+Una vez por turno, puedes pagar 1 recurso extra para reducir en 1 el coste de una habilidad de un compuesto.",Cristal brillante que acelera reacciones químicas,,,,,,,image-ezI1T5ytoC0ooSyTxXyQL.webp,,1,,Herramienta
+Espejo de Plata,Herramienta,"Efecto Activado: 
+Una vez por turno, puedes copiar la habilidad de 1 compuesto enemigo.",Espejo antiguo que muestra estructuras moleculares en lugar de reflejos,,,,,,,image-KExKMiSz8jmfHx5QCLuQT.webp,,2,,Herramienta
+Horno de Fundición,Herramienta,"Efecto Continuo: 
+Tus cartas Sólido pueden atacar dos veces por turno.",Horno industrial para fundir metales mágicos,,,,,,,image-XTJU1Aus8WNoUjFM2dkj-.webp,,2,,Herramienta
+Equilibrio Redox,Herramienta,"Efecto Activado: 
+Una vez por turno, puedes cambiar el estado de materia de 1 carta en campo.",Dispositivo con cámaras duales que equilibra oxidación y reducción,,,,,,,image-Bp8TdGDTNib0fWNpJniQ8.webp,,2,,Herramienta
+Matraz de Síntesis,Herramienta,"Efecto Continuo: 
+Cuando formas un compuesto, roba 1 carta.",Frasco de vidrio donde los compuestos se forman perfectamente cada vez,,,,,,,image-iFaAIbgx9pJUKIEo1wYjo.webp,,2,,Herramienta
+Contaminación Ambiental,Herramienta,"Efecto Continuo: 
+El oponente no puede formar compuestos.",Dispositivo que emite contaminación mágica que previene reacciones,,,,,,,image-zXIBPdSZPAKCTbh3Hejjy.webp,,2,,Herramienta
+Laboratorio del Sabio,Herramienta,"Efecto Activado: 
+Una vez por turno, puedes mirar las 3 primeras cartas de tu mazo y reordenarlas.",Estación de trabajo alquímica completa perfectamente organizada,,,,,,,image-rt3AgSqAQjkGFNE_eZCz2.webp,,3,,Herramienta
+Catalizador Enzimático,Herramienta,"Efecto Continuo: 
+Cuando formas un compuesto, roba 1 carta adicional.",Catalizador de aspecto orgánico que funciona con sistemas vivos,,,,,,,image-Oy9eCQH3_YIwLmTxsJ156.webp,,3,,Herramienta
+Campo Magnético,Herramienta,"Efecto Continuo: 
+Todas los Elementos metálicos enemigos deben atacar esta carta. Si lo hacen, descarta ésta herramienta.",Dispositivo que crea líneas de campo magnético visibles,,,,,,,image-_507covL0CjWcs4rWGfj-.webp,,3,,Herramienta
+Reactivos Puros,Herramienta,"Efecto Continuo: 
+Puedes formar compuestos con 1 elemento menos del requerido.",Conjunto de elementos perfectamente purificados en viales de cristal etiquetados,,,,,,,image-KRk0MIjpVOr4EcxHZ5dEE.webp,,3,,Herramienta
+Muro Indestructible,Herramienta,"Efecto: 
+No puede atacar. Si es destruido, cuenta como 2 cartas destruidas para el enemigo. ",Barrera mágica que se repara instantáneamente cuando es dañada,0,5,,,,,image-VOpLN_5Z8sLOXRlhtE_C7.webp,,4,,Herramienta
+Energía Gaseosa,Energy,,,,,,,,,Gaseoso.png,Gaseoso Oficial.png,1,Gaseoso,Energia
+Energía Sólida,Energy,,,,,,,,,Sólido.png,Sólido Oficial.png,1,Solido,Energia
+Energía Líquida,Energy,,,,,,,,,Líquido.png,Líquido Oficial.png,1,Liquido,Energia
+Energía Acuosa,Energy,,,,,,,,,Acuoso.png,Acuoso Oficial.png,1,Acuoso,Energia
